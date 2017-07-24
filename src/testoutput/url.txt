@@ -1,0 +1,5 @@
+Protocol -> https, Host -> google, Domain -> co.in, Query params -> Map(gfe_rd -> cr)
+Protocol -> https, Host -> example, Domain -> com, Query params -> Map(field_category_id[0] -> 100, field_category_id[1] -> 101, field_author_name[0] -> John)
+Protocol -> https, Host -> stackoverflow, Domain -> com, Query params -> null
+Protocol -> https, Host -> tutorialspoint, Domain -> com, Query params -> null
+Protocol -> https, Host -> google, Domain -> com, Query params -> null
